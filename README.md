@@ -1,5 +1,5 @@
 # Stock-Market-Prediction
-# Stock Market Prediction
+
 
 This project implements a simple stock market prediction and trading strategy using rolling max/min signals.
 
